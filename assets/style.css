@@ -1,0 +1,12 @@
+
+h1 {
+    padding: 10px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.btn {
+    border-style: solid;
+}
