@@ -7,4 +7,34 @@ h1 {
     text-align: center;
 }
 
+.wrapper{
+    background-color: gray;
 
+}
+
+.card-header{
+    text-align: center;
+}
+
+.card-body{
+    text-align: center;
+}
+
+#generate {
+    color: green;
+}
+
+#copy {
+    color: green;
+}
+
+.card {
+    margin-left: 15px;
+    margin-right: 15px;
+
+
+}
+
+body{
+    background-color: gray;
+}
