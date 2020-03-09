@@ -48,3 +48,6 @@ GIVEN that a user needs a new, secure password
 WHEN prompted for password criteria
 
 THEN a password is generated
+
+
+<img src="./pswdgen.png">
