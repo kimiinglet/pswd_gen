@@ -48,11 +48,3 @@ GIVEN that a user needs a new, secure password
 WHEN prompted for password criteria
 
 THEN a password is generated
-
-# Please check it out:
-
-    https://kimiinglet.github.io/pswd_gen/
-
-# Here is my code:
- 
-    https://github.com/kimiinglet/pswd_gen
