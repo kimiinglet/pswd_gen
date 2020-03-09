@@ -1,6 +1,6 @@
 # Password Generator
 
-# Check out my work:
+## Check out my work:
 
 https://github.com/kimiinglet/pswd_gen
 
